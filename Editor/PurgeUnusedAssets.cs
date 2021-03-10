@@ -5,7 +5,7 @@ using Sangpal.PurgeUnusedAssets;
 
 public class PurgeUnusedAssets : MonoBehaviour
 {
-    [MenuItem("Tools/PUA/Purge Assets")]
+    [MenuItem("Tools/Purge Unused Assets/Purge Assets")]
     public static void PurgeAssets() {
         var _root = SceneManager.GetActiveScene().GetRootGameObjects();
 
