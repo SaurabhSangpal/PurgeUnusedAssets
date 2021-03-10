@@ -1,0 +1,18 @@
+{
+  "name": "in.sangpal.purgeunusedassets",
+  "version": "0.0.1",
+  "displayName": "Purge Unused Assets",
+  "description": "Reduce build size by removing assets that are not required.",
+  "unity": "2020.2",
+  "unityRelease": "1f1",
+  "keywords": [
+    "build size",
+    "app size",
+    "remove assets"
+  ],
+  "author": {
+    "name": "Saurabh Sangpal",
+    "email": "saurabh@sangpal.in",
+    "url": "https://sangpal.in"
+  }
+}

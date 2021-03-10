@@ -1,0 +1,18 @@
+{
+    "name": "PurgeUnusedAssets.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:cdd7f9208ba1a224695d3ab883301c58"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
