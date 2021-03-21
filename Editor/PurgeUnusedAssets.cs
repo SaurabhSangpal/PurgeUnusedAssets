@@ -20,6 +20,7 @@ public class PurgeUnusedAssets : MonoBehaviour
             if (_children.Length == 0) continue;
 
             for (int j = 0; j < _children.Length; j++) {
+            	if (_children[j] == null) continue;
                 DestroyImmediate(_children[j].gameObject);
             }
         }
